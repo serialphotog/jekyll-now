@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hey there! My name is Adam Thompson and I like to hack things. I'm paticuarily interested in computer vision and machine learning. If you're interested, you can also follow my photography and real-life adventures on my main blog [Serial Photog](https://serialphotog.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[adam@serialphotog.com](mailto:adam@serialphotog.com)
