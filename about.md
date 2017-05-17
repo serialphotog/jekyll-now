@@ -9,3 +9,12 @@ Hey there! My name is Adam Thompson and I like to hack things. I'm paticuarily i
 ### Contact me
 
 [adam@serialphotog.com](mailto:adam@serialphotog.com)
+
+### Follow Me
+
+* Main Blog: [Serialphotog.com](https://serialphotog.com)
+* Twitter: [@Serialphotog](https://twitter.com/serialphotog)
+* Instagram: [@Serialphotog](https://instagram.com/serialphotog)
+* Youtube: [Serialphotog](https://www.youtube.com/channel/UCLxXyXWm6DWDn_tW8eG7ckA)
+* Facebook: [Serialphotog](https://facebook.com/serialphotog)
+* Github: [Serialphotog](https://github.com/serialphotog)
