@@ -24,7 +24,7 @@ This method has a complexity of **O(NloglogN)**.
 
 Let's take a look at how we can implement a Sieve of Eratosthenes in Python:
 
-{% highlight python %}
+```python
 def get_primes():
   D = {}
   p = 2
@@ -38,25 +38,25 @@ def get_primes():
         D.setdefault[q+p, []).append(q)
       del D[p]
     p += 1
-{% endhightlight %}
+```
 
 For this implementation I have modified things a bit to yield an infinite prime generator.
 
 Let's take a moment to consider an example of how this could be used in a practical scenario. Let's take, for example, [problem 10 from Project Euler](https://projecteuler.net/problem=10), which asks that we find the sum of all the primes below 2 million. Using our *gen_primes()* method we can easily solve this with the following:
 
-{% highlight python %}
+```python
 primes = gen_primes()
 print(sum(itertools.takewhile(lambda x: x < 2000000, primes)))
-{% endhighlight %}
+```
 
 ## Another Practical Example
 
 Before I wrap up this post, let's consider just one more practical use for our *gen_primes()* method. Assume that we needed to find out what the n<sup>th</sup> prime is. For the purpose of example, let's just say we want to find the 500<sup>th</sup> prime number. It turns out this can be done easily with the following:
 
-{% highlight python %}
+```python
 primes = gen_primes()
 print(next(itertools.islice(primes, 500, None), None))
-{% endhighlight %}
+```
 
 Running this will reveal that the 500<sup>th</sup> prime number is 3,581. 
 
