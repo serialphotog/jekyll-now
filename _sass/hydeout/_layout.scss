@@ -39,6 +39,10 @@ body {
   flex: 0 0 auto;
   padding: $section-spacing;
 
+  h2 {
+    color: #fff;
+  }
+
   .site-title {
     font-family: "Abril Fatface", serif;
     font-weight: normal;
