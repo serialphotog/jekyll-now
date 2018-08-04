@@ -26,27 +26,6 @@ avatar: https://avatars0.githubusercontent.com/u/19210192?v=3&s=460 #https://raw
 
 timezone: America/New_York
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: adam@serialphotog.com
-  facebook:
-  flickr:
-  github: serialphotog
-  instagram: serialphotog
-  linkedin:
-  pinterest:
-  rss: a # just type anything here for a working RSS icon
-  twitter: serialphotog
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCLxXyXWm6DWDn_tW8eG7ckA
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
