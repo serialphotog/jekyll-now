@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quickly Generating Primes Below n With the Sieve of Eratosthenes
-category: Development
+category: Computer Science
 tags: [math, computer science, python, programming]
 ---
 
