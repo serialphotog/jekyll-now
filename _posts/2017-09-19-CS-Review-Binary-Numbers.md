@@ -35,7 +35,9 @@ All we have to do is, for each 1 in the binary number, add the corresponding pow
 
 **Example:** Convert 11001101 to decimal.
 
-![_config.yml]({{ site.baseurl }}/images/binary-cs-review/unsigned_magnitude_example.png)
+| 1 | 1 | 0 | 0 | 1 | 1 | 0 | 1 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
 
 The above figure shows our binary number and the corresponding index for each bit in the number. Notice that we have a one at the following indecies: 0, 2, 3, 6 and 7. This means that to convert our binary number back into decimal, all we have to do is the following:
 
@@ -61,7 +63,9 @@ $$ 2^6, 2^4, 2^3, 2^1, \mbox{ and } 2^0 $$
 
 This means we simple place a 1 at position 6, 4, 3, 1, and 0 and a 0 at positions 5, and 2:
 
-![_config.yml]({{ site.baseurl }}/images/binary-cs-review/91_in_unsigned_magnitude.png)
+| 1 | 0 | 1 | 1 | 0 | 1 | 1 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 | 5 | 4 | 3 | 2 | 1 | 0 |
 
 # What About Signed Integers? 
 
