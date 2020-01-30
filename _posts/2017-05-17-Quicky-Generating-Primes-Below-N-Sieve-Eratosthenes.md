@@ -18,7 +18,7 @@ In general, the Sieve of Eratosthenes works by generating a list of number from 
 3. Iterate over the multiples of **p** by counting to **n** from **2p** in increments of **p**. These are the numbers that get marked as composites in the list.
 4. Find the first number greater than **p** in the list that is not marked. If one does not exist, we are done. If one does exist, however, set **p** to this new value and repeat from step 3. 
 
-This method has a complexity of **O(NloglogN)**.
+This method has a complexity of $$ O\left(N \cdot log\left(log\left(N\right)\right)\right) $$.
 
 # Implementation in Python
 
