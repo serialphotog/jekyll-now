@@ -21,7 +21,7 @@ Binary is nothing but a base-2 numbering system. This simply means that we only 
 
 In general, we can convert any given base-k number into a base-10 number using the following formula:
 
-![_config.yml]({{ site.baseurl }}/images/binary-cs-review/convert_to_base_10_formula.png)
+$$ xyzw_e = x * e^3 + y * e^2 + z * e^1 + w * e^0 $$
 
 # Unsigned Magnitude Binary Representation
 
@@ -39,7 +39,7 @@ All we have to do is, for each 1 in the binary number, add the corresponding pow
 
 The above figure shows our binary number and the corresponding index for each bit in the number. Notice that we have a one at the following indecies: 0, 2, 3, 6 and 7. This means that to convert our binary number back into decimal, all we have to do is the following:
 
-![_config.yml]({{ site.baseurl }}/images/binary-cs-review/unsigned_magnitude_to_decimal.png)
+$$ 2^7 + 2^6 + 2^3 + 2^2 + 2^0 = 128 + 64 + 8 + 4 + 1 = 205 $$
 
 ## Converting Decimal to Unsigned Magnitude Binary
 
@@ -57,7 +57,7 @@ In general, you find the largest power of 2 that will fit in your number and wri
 
 This means the powers of two we used are:
 
-![_config.yml]({{ site.baseurl }}/images/binary-cs-review/powers_of_2.png)
+$$ 2^6, 2^4, 2^3, 2^1, \mbox{ and } 2^0 $$
 
 This means we simple place a 1 at position 6, 4, 3, 1, and 0 and a 0 at positions 5, and 2:
 
