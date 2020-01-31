@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating an OpenCV 4 Project in Visual Studio 2017 & 2019
+title: How I Setup WSL In Windows 10 With the Windows Termainl App
 category: General
 tags: [Windows, Windows 10, Windows Terminal, WSL, ZSH]
 excerpt_separator: <!--more-->

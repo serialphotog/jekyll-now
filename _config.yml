@@ -17,13 +17,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/19210192?v=3&s=460 #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-#
-# Flags below are optional
-#
-
 timezone: America/New_York
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
