@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+sidebar_link: true
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/AboutMeImage.jpg)
