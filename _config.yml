@@ -3,6 +3,7 @@ title: Hacker Adam
 description: I'm Adam. I Hack Stuff.  
 url: http://serialphotog.github.io
 baseurl: ""
+sidebar_link: true
 
 # Author Configuration
 author:
