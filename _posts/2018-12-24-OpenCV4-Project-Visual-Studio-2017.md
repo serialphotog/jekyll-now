@@ -2,7 +2,7 @@
 layout: post
 title: Creating an OpenCV 4 Project in Visual Studio 2017 & 2019
 category: Development
-tags: [programming, c++, Computer Vision, OpenCV]
+tags: [programming, c++, Computer Vision, OpenCV, Windows]
 excerpt_separator: <!--more-->
 ---
 

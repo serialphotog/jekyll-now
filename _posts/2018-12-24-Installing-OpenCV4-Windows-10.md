@@ -2,7 +2,7 @@
 layout: post
 title: Installing OpenCV 4 on Windows 10
 category: Development
-tags: [programming, c++, Computer Vision, OpenCV]
+tags: [programming, c++, Computer Vision, OpenCV, Windows, Windows 10]
 excerpt_separator: <!--more-->
 ---
 
