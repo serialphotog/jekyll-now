@@ -1,7 +1,7 @@
 # Site Configuration
 title: Hacker Adam
 description: I'm Adam. I Hack Stuff.  
-url: http://serialphotog.github.io
+url: http://hackeradam.com
 baseurl: ""
 
 # Author Configuration
@@ -20,7 +20,7 @@ plugins:
 timezone: America/New_York
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-57669217-3
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -39,3 +39,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+compress_html:
+  clippings: all
+  comments: all
+  profile: false
