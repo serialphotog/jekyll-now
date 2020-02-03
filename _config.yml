@@ -19,9 +19,6 @@ plugins:
 
 timezone: America/New_York
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-57669217-3
-
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
